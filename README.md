@@ -1,7 +1,5 @@
 # Titanic_Survive_analysis
 
-# 🚀 PASSENGER DATA CLEANING & VISUALIZATION
-
 🔍 **PROJECT OVERVIEW**  
 In this project, I performed end-to-end data cleaning and visualization on a passenger dataset. The workflow began with an initial analysis to understand the structure and distribution of the data.
 
